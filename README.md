@@ -10,7 +10,7 @@ The MNIST database of handwritten digits, available from [this page](http://yann
 ## Results
 
 
-| Train samples | Test samples | Architecture | Library | Test Accuracy |
+| Train samples | Test samples | Architecture | Library | **Test Accuracy** |
 | ------------- | ------------ | ------------ | ------- | ------------- |
-| 60000         | 10000        | LeNet-5      | PyTorch | 98%           |
-| 20000         | 10000        | Vanilla NN   | NumPy   | 82%           |
+| 60000         | 10000        | LeNet-5      | PyTorch | **98%**           |
+| 20000         | 10000        | Vanilla NN   | NumPy   | **82%**           |
